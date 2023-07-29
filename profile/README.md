@@ -1,4 +1,6 @@
-![깃헙 리드미](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/35b87c11-66e2-458c-bec1-000803164f3c)
+
+![깃헙배경3](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/701229b1-0d0b-4566-8534-de51d3d57347)
+
 
 <div align = "center">
 
