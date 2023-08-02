@@ -22,8 +22,7 @@ https://www.witchsmind.com
 
 <br>
 
-## 🎥 Demo
-## 📹 [Demo]((https://www.youtube.com/watch?v=RCUEUDk4sVw)) 
+## 🎥 Demo((https://www.youtube.com/watch?v=RCUEUDk4sVw)) 
 [![Video Label](http://img.youtube.com/vi/QfUCC0aaNK4/0.jpg)](https://youtu.be/QfUCC0aaNK4)
 <br>
 
