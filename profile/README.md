@@ -23,8 +23,7 @@ https://www.witchsmind.com
 <br>
 
 ## 🎥 Demo
-#### 반응형 UI
-<br>
+
 
 #### 인기도 순위, 통계
 <br>
@@ -54,9 +53,13 @@ https://www.witchsmind.com
 
 <br>
 
-#### 별점
+#### 별점 & 통계
+![통계](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/8f9f3b8c-94fc-4cc4-a3e5-0339576e4ec8)
 <br>
 
+#### 반응형 UI
+
+<br>
 
 <br>
 
