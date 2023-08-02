@@ -40,6 +40,8 @@ https://www.witchsmind.com
 <br>
 
 #### 인격 선택
+![인격](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/019f7e69-c51f-4082-9342-75bee2efafce)
+
 <br>
 
 #### 고민 입력
@@ -48,6 +50,7 @@ https://www.witchsmind.com
 <br>
 
 #### 고민 답변
+
 <br>
 
 #### 별점
