@@ -35,6 +35,8 @@ https://www.witchsmind.com
 <br>
 
 #### 고민 카테고리
+![카테고리](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/cfe400a7-cd54-42eb-bd4b-82851753b737)
+
 <br>
 
 #### 인격 선택
