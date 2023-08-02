@@ -30,6 +30,8 @@ https://www.witchsmind.com
 <br>
 
 #### 닉네임페이지
+![닉네임](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4ff8d6aa-1f08-4648-b234-ab17c569239a)
+
 <br>
 
 #### 고민 카테고리
