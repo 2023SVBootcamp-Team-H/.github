@@ -50,6 +50,7 @@ https://www.witchsmind.com
 <br>
 
 #### 고민 답변
+![고민답변](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/e0188383-b8b7-4bdf-b267-48b5d1b926d5)
 
 <br>
 
