@@ -1,4 +1,4 @@
-![고민입력](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/29b67aed-7bb0-44ad-b5d3-e8519b7e15c7)
+
 ![Desktop - 60](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4513b60d-38bc-4a62-aa35-d693cb525fbb)
 
 <div align = "center">
