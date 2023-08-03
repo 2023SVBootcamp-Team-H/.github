@@ -52,39 +52,6 @@
 
 <br>
 
-# 
-
-
-<br>
-
-#### 
-
-
-<br>
-
-#### 
-
-
-<br>
-
-#### 
-
-
-<br>
-
-#### 
-
-<br>
-
-####
-
-
-
-
-<br>
-
-<br>
-
 ## 💡System Architecture
 ![시스템 아키텍처 001](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4c09ffa6-d6cf-4ad1-92bb-e14fe310006e)
 
