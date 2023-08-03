@@ -65,7 +65,8 @@ https://www.witchsmind.com
 <br>
 
 ## 💡System Architecture
-![v4아키텍처](https://github.com/2023SVBootcamp-Team-H/dongwoo/assets/137749703/bf433e50-63a1-4e40-b8de-14d4f2f1dc1b)
+![시스템 아키텍처 001](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4c09ffa6-d6cf-4ad1-92bb-e14fe310006e)
+
 
 <br>
 
