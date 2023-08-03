@@ -79,7 +79,7 @@
 | | |
 |:----:|----|
 | Node Exporter | ![캡처1](https://github.com/2023SVBootcamp-Team-H/dongwoo/assets/137749703/c617e7e7-0332-4ac7-9b4f-87be5bfa7cf3)  |
-| cAdvisor | ![cAdvisors](https://github.com/2023SVBootcamp-Team-H/dongwoo/assets/137749703/d4bf615b-00c3-40b3-b67d-4ba8b4d64bdc) |
+| cAdvisor | ![image](https://github.com/2023SVBootcamp-Team-H/.github/assets/93089183/938b43a2-cd47-41a1-8bfd-8a22b4cb6454)|
 | ELK | ![캡처](https://github.com/2023SVBootcamp-Team-H/dongwoo/assets/137749703/f6a48508-47ae-4ad5-a14c-26ec5175682e) |
 
 
