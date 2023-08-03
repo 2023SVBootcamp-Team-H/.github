@@ -18,18 +18,20 @@
 
 
 ## ✨ Service
-https://www.witchsmind.com
+### https://www.witchsmind.com
 
 <br>
 
-## 🎥 [Demo](https://www.youtube.com/watch?v=QfUCC0aaNK4)) 
-[![Video Label](http://img.youtube.com/vi/QfUCC0aaNK4/0.jpg)](https://youtu.be/QfUCC0aaNK4)
-<br>
+## 🎥  Demo
+[![Video Label](http://img.youtube.com/vi/QfUCC0aaNK4/0.jpg)](https://youtu.be/QfUCC0aaNK4) <br>
+☝ Demo 영상이 궁금하면 이미지를 클릭!
+
+## 
 
 |닉네임페이지|고민 카테고리|
 |:----:|:-------:|
 |![닉네임](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4ff8d6aa-1f08-4648-b234-ab17c569239a)|![카테고리](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/cfe400a7-cd54-42eb-bd4b-82851753b737)|
-|가나다라|ㅁㅁ|
+
 
 |인격 선택|고민 입력|
 |:----:|:-------:|
@@ -38,6 +40,16 @@ https://www.witchsmind.com
 |고민 답변|별점 & 통계|
 |:----:|:-------:|
 |![고민답변](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/e0188383-b8b7-4bdf-b267-48b5d1b926d5)|![통계](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/8f9f3b8c-94fc-4cc4-a3e5-0339576e4ec8)|
+
+<div align="center">
+
+|반응형 UI|
+|:----:|
+|<img width="25%" src="https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/d6005349-5090-421a-bf8a-b2257f047918.gif"/>|
+</div>
+
+</p>
+
 <br>
 
 # 
@@ -64,8 +76,8 @@ https://www.witchsmind.com
 
 <br>
 
-#### 반응형 UI
-<img width="20%" src="https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/d6005349-5090-421a-bf8a-b2257f047918.gif"/>
+####
+
 
 
 
