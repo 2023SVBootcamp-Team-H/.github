@@ -26,33 +26,42 @@ https://www.witchsmind.com
 [![Video Label](http://img.youtube.com/vi/QfUCC0aaNK4/0.jpg)](https://youtu.be/QfUCC0aaNK4)
 <br>
 
-#### 닉네임페이지
-![닉네임](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4ff8d6aa-1f08-4648-b234-ab17c569239a)
+|닉네임페이지|고민 카테고리|
+|:----:|:-------:|
+|![닉네임](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/4ff8d6aa-1f08-4648-b234-ab17c569239a)|![카테고리](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/cfe400a7-cd54-42eb-bd4b-82851753b737)|
+|가나다라|ㅁㅁ|
+
+|인격 선택|고민 입력|
+|:----:|:-------:|
+|![인격](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/019f7e69-c51f-4082-9342-75bee2efafce)|![고민입력](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/a7422462-82fa-42bd-a180-7363631efef9)|
+
+|고민 답변|별점 & 통계|
+|:----:|:-------:|
+|![고민답변](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/e0188383-b8b7-4bdf-b267-48b5d1b926d5)|![통계](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/8f9f3b8c-94fc-4cc4-a3e5-0339576e4ec8)|
+<br>
+
+# 
+
 
 <br>
 
-#### 고민 카테고리
-![카테고리](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/cfe400a7-cd54-42eb-bd4b-82851753b737)
+#### 
+
 
 <br>
 
-#### 인격 선택
-![인격](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/019f7e69-c51f-4082-9342-75bee2efafce)
+#### 
+
 
 <br>
 
-#### 고민 입력
-![고민입력](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/a7422462-82fa-42bd-a180-7363631efef9)
+#### 
+
 
 <br>
 
-#### 고민 답변
-![고민답변](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/e0188383-b8b7-4bdf-b267-48b5d1b926d5)
+#### 
 
-<br>
-
-#### 별점 & 통계
-![통계](https://github.com/2023SVBootcamp-Team-H/.github/assets/97724189/8f9f3b8c-94fc-4cc4-a3e5-0339576e4ec8)
 <br>
 
 #### 반응형 UI
